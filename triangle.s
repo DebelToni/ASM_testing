@@ -47,7 +47,6 @@ loop_end:
     ret
 
 
-// --- FILLER FOR GITHUB STATS ---
     nop // registry node 0
     nop // registry node 1
     nop // registry node 2
